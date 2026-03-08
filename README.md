@@ -5,6 +5,9 @@ lab1:
 <img width="1853" height="881" alt="Capture d&#39;écran 2026-03-07 123255" src="https://github.com/user-attachments/assets/866cb645-73dc-4237-8712-f0c57ae5a1cb" />
 <img width="1854" height="897" alt="Capture d&#39;écran 2026-03-07 123321" src="https://github.com/user-attachments/assets/639b7892-cadf-4008-adb3-419311b70983" />
 <img width="1831" height="886" alt="Capture d&#39;écran 2026-03-07 123335" src="https://github.com/user-attachments/assets/2c0c0b00-71f1-4e78-9f7b-5c570ae283b2" />
+## Résultat de l’exécution:
+
+Après l’exécution de l’application, les données sont insérées correctement dans la base de données et les requêtes Hibernate fonctionnent comme prévu. Le programme affiche la liste de tous les produits (TV001 et Phone001 avec leurs prix), les produits appartenant à la catégorie Electronique, les produits associés à la commande 1, ainsi que les produits dont le prix est supérieur à 100 DH. L’exécution se termine avec exit code 0, ce qui indique que l’application s’est exécutée avec succès sans erreurs.
 lab2:
 <img width="1867" height="894" alt="Capture d&#39;écran 2026-03-07 123919" src="https://github.com/user-attachments/assets/ef5041a4-d6f7-4f4a-8e91-ff8628f8beeb" />
 <img width="1063" height="877" alt="Capture d&#39;écran 2026-03-07 123930" src="https://github.com/user-attachments/assets/0e24e60b-7b06-4128-a5ab-88aa193ffabd" />
